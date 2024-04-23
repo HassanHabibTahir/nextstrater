@@ -1,0 +1,18 @@
+{
+    "navigation": {
+        "home": "Accueil",
+        "about": "À propos",
+        "projects": "Projets"
+    },
+    "page": {
+        "home": {
+            "title": "Bienvenue sur la page d'accueil"
+        },
+        "about": {
+            "title": "Bienvenue sur la page À propos"
+        },
+        "projects": {
+            "title": "Bienvenue sur la page Projets"
+        }
+    }
+}

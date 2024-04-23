@@ -1,0 +1,18 @@
+{
+    "navigation": {
+        "home": "首页",
+        "about": "关于",
+        "projects": "项目"
+    },
+    "page": {
+        "home": {
+            "title": "欢迎来到首页"
+        },
+        "about": {
+            "title": "欢迎来到关于"
+        },
+        "projects": {
+            "title": "欢迎来到项目"
+        }
+    }
+}
